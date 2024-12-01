@@ -9,7 +9,7 @@ Log in to the application
 
 Navigate to the Settings section
 
-Click on the "Delete My Account" button
+Click on the "Delete  Account" button
 
 Confirm the account deletion
 
